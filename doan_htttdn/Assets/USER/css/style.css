@@ -17,7 +17,10 @@ License URL: http://creativecommons.org/licenses/by/3.0/
     resize:both;
 }
 
-
+.footer ul li {
+    list-style-type: none;
+    resize: both;
+}
 body {
     background: #fff;
     font-family: 'Roboto', sans-serif;
